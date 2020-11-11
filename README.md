@@ -2,7 +2,7 @@
 Reverse Polish notation calculator in python
 <br> Made for Year 1 Sem 1 Coursework 
 <br>
-<br> ### Concepts worked on:
+### <br> Concepts worked on:
 <br> 1. Loops
 <br> 2. Understanding stacks
 <br> 3. Encapsulation
